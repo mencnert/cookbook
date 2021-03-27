@@ -13,7 +13,7 @@ Počet porcí: 4
 | Velká rajčata              | 400 g       |
 | Česnek                     | 2 stroužky  |
 | Mražený špenát             | 200 g       |
-| Máslo                      | 40 g         |
+| Máslo                      | 40 g        |
 | Hladká mouka               | 30 g        |
 | Olivový olej               | -           |
 | Lassagne - pláty           | -           |
@@ -78,7 +78,7 @@ Počet porcí: 4
 | Co               | Kolik      |
 | ---------------- | ---------- |
 | Cibule           | 30 g       |
-| Máslo            | 40 g        |
+| Máslo            | 40 g       |
 | Hladká mouka     | 30 g       |
 | Mléko            | cca 700 ml |
 | Bobkový list     | 1 ks       |
@@ -110,6 +110,14 @@ Počet porcí: 4
 1. bešamel
 1. lasagne
 1. rajčata
+1. parmazán
 1. lasagne
 1. bešamel
 1. hodně parmazánu
+
+## Tipy
+
+1. Všechno co nejvíce vysušit (špánát a rajčata) - čím víc
+   vody příjde do pekáče tím horší je výsledek
+1. Vrchní vrstvu parmazánu můžeme přidat až během pečení.
+   Umožní nám to lasagne déle péct (lépe vysušit).

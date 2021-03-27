@@ -111,6 +111,9 @@ Počet porcí: 4
 1. lasagne
 1. rajčata
 1. parmazán
+
+##### Zakončení
+
 1. lasagne
 1. bešamel
 1. hodně parmazánu
